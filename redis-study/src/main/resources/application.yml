@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: redis.study
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    password: 2017liyuan@
+    database: 0
+    timeout: 10000

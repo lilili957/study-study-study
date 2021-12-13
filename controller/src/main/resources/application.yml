@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: controller
+
+server:
+  port: 8001
+
+
+name: @name@

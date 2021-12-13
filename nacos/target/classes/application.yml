@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: nacos
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://127.0.0.1:8848
